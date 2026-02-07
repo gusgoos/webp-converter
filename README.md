@@ -1,2 +1,7 @@
 # webp-converter
-Batch-convert .webp images to .jpg or .png using Pillow.
+
+Simple Python script to batch-convert `.webp` images to `.png`.
+
+## Requirements
+- Python 3.8+
+- Pillow
